@@ -1,0 +1,65 @@
+
+
+header{
+    text-align-last: center;
+    background-color: rgb(29, 46, 82);
+    padding: 2px;
+    color: aliceblue;
+}
+
+body{
+    margin: 30px;
+}
+
+div#post-uno{
+    background-color: rgb(29, 46, 82);
+    color: aliceblue;
+    padding: 20px;
+    display: flex;
+}
+
+div.post-body{
+    width: 80%;
+    padding: 30px;
+    margin-left: 50px;
+    background-color: rgb(104, 104, 104);
+    border-radius: 20px;
+}
+
+div#post-dos{
+    background-color: rgb(29, 46, 82);
+    color: aliceblue;
+    padding: 20px;
+    display: flex;
+    margin-top: 50px;
+}
+
+div.post-header{
+    width: 40%;
+    text-align-last: center;
+}
+
+
+h3{
+    font-size: x-large;
+}
+
+footer{
+    background-color: rgb(29, 46, 82);
+    margin-top: 50px;
+    padding: 10px;
+    color: aliceblue;
+}
+
+form{
+    background-color: rgb(104, 104, 104);
+}
+fieldset{
+    padding: 20px;
+}
+
+table{
+    border-color: black;
+    background-color: rgb(29, 46, 82);
+    margin: auto;
+}
